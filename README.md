@@ -81,9 +81,9 @@ The Total Volumes and Returns of all the 12 stocks were calculated for both the 
 The result of these analysis using the VB codes are given in the below pictures.
 ### **2017**
 
-<img src="2017 Analysis_Table.png"><img>
+<img src="2017 Analysis_Table.PNG"><img>
 ### **2018**
-<img src="2018 Analysis_Table.png"><img>
+<img src="2018 Analysis_Table.PNG"><img>
 
 The *Daily Volumes* of all of these stocks in 2017 was about 3.1 million whereas in 2018 it was 3.3 million which is not a big difference however the volumes of individual stocks have significantly changed for example if we take the example of **ENPH** the trading in this stock is almost 3 times of 2017 volumes.
 
@@ -95,12 +95,12 @@ In 2018 except **ENPH** and **RUN** all the stocks have given negative returns h
 The analysis was performed in VBA with and without **Refactoring**.  There is a significant drop of execution time once *Refactoring* was done. The execution times in both cases are shown in below pictures.
 ### **Original Script**
 
-<img src="2017 run time wo refactoring.png"><img>
-<img src="2018 run time wo refactoring.png"><img>
+<img src="2017 run time wo refactoring.PNG"><img>
+<img src="2018 run time wo refactoring.PNG"><img>
 
 ### **Refactored Script**
-<img src="2017 Refactored execution time.png"><img>
-<img src="2018 Refactored execution time.png"><img>
+<img src="2017 Refactored execution time.PNG"><img>
+<img src="2018 Refactored execution time.PNG"><img>
 
 This is visible from above pictures that execution time in 2017 analysis has reduced from 0.97 seconds to 0.15 seconds. In the year 2018 it has reduced from 0.94 sec to 0.17 sec. So refcatoring has helped in this case.
 ## **Summary**
